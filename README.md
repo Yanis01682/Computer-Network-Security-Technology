@@ -1,6 +1,6 @@
-﻿# Network Security
+﻿# Computer Network Security Technology
 
-Course-related files for Network Security, Fall 2025.
+Course-related files for Computer Network Security Technology, Fall 2025.
 
 ## Contents
 
@@ -10,9 +10,9 @@ Course-related files for Network Security, Fall 2025.
 - `exams/practical/`: practical exam handout and submitted Packet Tracer file.
 - `review/`: final review outline.
 
-# 计算机网络安全
+# 计算机网络安全技术
 
-本仓库整理 2025 秋季学期“计算机网络安全”的课程相关文件。
+本仓库整理 2025 秋季学期“计算机网络安全技术”的课程相关文件。
 
 ## 内容
 
